@@ -9,14 +9,14 @@ The corpus also contains the identification of the main topics presented in each
 Alessandra Gomes, Aline Paes, and Helena Caseli. 2026. CoDEl-BR: An Electoral Debate Corpus from Brazilian Municipal Elections. In Proceedings of the 17th International Conference on Computational Processing of Portuguese, Salvador, Bahia/Brazil. Association for Computational Lingustics.
 
 # BIBTEX
-@proceedings{gomes-paes-caseli-codelbr,
-  title     = {CoDEl-BR: An Electoral Debate Corpus from Brazilian Municipal Elections},
-  author 	  = {Alessandra Gomes and Aline Paes and Helena Caseli},  
-  booktitle = {Proceedings of the 17th International Conference on Computational Processing of Portuguese},
-  month     = {April},
-  year      = {2026},
-  address   = {Salvador, Bahia/Brazil},
-  publisher = {Association for Computational Linguistics}
-}
+@proceedings{gomes-paes-caseli-codelbr, <br>
+&emsp;&emsp; title     = {CoDEl-BR: An Electoral Debate Corpus from Brazilian Municipal Elections},<br>
+&emsp;&emsp; author 	  = {Alessandra Gomes and Aline Paes and Helena Caseli},<br>
+&emsp;&emsp; booktitle = {Proceedings of the 17th International Conference on Computational Processing of Portuguese},<br>
+&emsp;&emsp; month     = {April},<br>
+&emsp;&emsp; year      = {2026},<br>
+&emsp;&emsp; address   = {Salvador, Bahia/Brazil},<br>
+&emsp;&emsp; publisher = {Association for Computational Linguistics}<br>
+}<br>
 
 
