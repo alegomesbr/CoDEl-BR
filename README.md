@@ -85,7 +85,7 @@ The corpus has 18 atributes, listed below:
 </table>
 
 <br><br>
-Available at: <a href="https://aclanthology.org/2026.propor-1.64/" target="_blank>https://aclanthology.org/2026.propor-1.64</a>
+Available at: https://aclanthology.org/2026.propor-1.64
 <br><br>
                 
 # CITING 
