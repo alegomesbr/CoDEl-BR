@@ -1,5 +1,5 @@
 # CoDEl-BR (Corpus de Debates Eleitorais): An Electoral Debate Corpus from Brazilian Municipal Elections
-Repository containing the CoDEl-BR corpus, related to the article “CoDEl-BR: An Electoral Debate Corpus from Brazilian Municipal Elections,” to be presented at PROPOR 2026.
+Repository containing the CoDEl-BR corpus, related to the article “CoDEl-BR: An Electoral Debate Corpus from Brazilian Municipal Elections,” presented at PROPOR 2026.
 
 CoDEl-BR is a corpus of transcripts from 22 second-round mayoral debates held in 13 Brazilian state capitals (Belo Horizonte, Campo Grande, Cuiabá, Curitiba, Fortaleza, Goiânia, João Pessoa, Manaus, Natal, Palmas, Porto Alegre, Porto Velho, São Paulo) during the 2024 municipal elections. It comprises 2,943 transcript segments, from 142 different speakers (28 candidates, 22 journalist moderators, 15 journalist narrators, and 77 questioners), totaling approximately 32 hours and 318 thousands words. 
 
@@ -84,6 +84,10 @@ The corpus has 18 atributes, listed below:
   </tr>  
 </table>
 
+<br><br>
+Available at: <a href="https://aclanthology.org/2026.propor-1.64/" target="_blank>https://aclanthology.org/2026.propor-1.64</a>
+<br><br>
+                
 # CITING 
 Alessandra Gomes, Aline Paes, and Helena Caseli. 2026. CoDEl-BR: An Electoral Debate Corpus from Brazilian Municipal Elections. In Proceedings of the 17th International Conference on Computational Processing of Portuguese, Salvador, Bahia/Brazil. Association for Computational Lingustics.
 
